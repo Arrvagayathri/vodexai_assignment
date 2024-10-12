@@ -17,8 +17,8 @@ This project is a FastAPI application that performs CRUD operations with MongoDB
 **Project Setup**
 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd 
+git clone https://github.com/Arrvagayathri/vodexai_assignment
+cd vodexai_assignment
 
 2. Create a Virtual Environment
 #Create a virtual environment and activate it.
